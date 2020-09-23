@@ -1,0 +1,8 @@
+frmPopupMenu = 44, 44, 688, 423, C, 22, 22, 666, 401, C
+FormHook = 66, 66, 716, 468, 
+PopMenu = 66, 66, 716, 468, 
+APITimer = 44, 44, 549, 492, 
+BrowseFolders = 110, 110, 615, 558, 
+Graphics = 66, 66, 593, 510, Z
+Registry = 176, 176, 688, 624, C
+frmAbout = 154, 154, 666, 602, , 132, 132, 644, 580, C
